@@ -11,7 +11,7 @@
 
 
 
-<a href="https://muksal2000.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://muksal2000.tistory.com/"/> 
+
 
 
 
