@@ -8,6 +8,9 @@
 
 <img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  <br> <img alt="unity" src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 
+<p align="right">
+<a href="https://muksal2000.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://muksal2000.tistory.com/"/></a>
+</p>
 
 
 
