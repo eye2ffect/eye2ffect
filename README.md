@@ -11,8 +11,9 @@
 <br> <img alt="unity" src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 <p align="right">
-  <img src="https://img.shields.io/badge/tistory-#000000?style=for-the-badge&logo=tistory&logoColor=white">
-<a href="https://muksal2000.tistory.com/"><img src="tistory&link=https://muksal2000.tistory.com/"/></a>
+ <a href="https://muksal2000.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"/>
+  </a>
 </p>
 
 
